@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 .DS_Store
 config.js
+mapping_geojson_points_practice
 
 # C extensions
 *.so
